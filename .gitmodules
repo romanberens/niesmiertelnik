@@ -1,0 +1,3 @@
+[submodule "docs/psp"]
+	path = docs/psp
+	url = https://github.com/KGPSP/hack_2025_psp
