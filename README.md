@@ -59,6 +59,8 @@ Projekt jest w wersji **działającej**, ale na poziomie **szkieletu funkcjonaln
 -   Udane połączenie WebSocket backend → frontend → PSP
     
 -   Debug-tool w konsoli (`telemetryStore`, `buildingStore`, „lastEvents”)
+
+- Działające implementacje planszy akcji z wizualizacją znajdują się w repozytorium drugiego developera zespołu https://github.com/ciembor/hack_2025_psp/tree/main   
     
 
 ### ❗ Wyzwania, które wystąpiły w trakcie:
