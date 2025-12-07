@@ -1,0 +1,26 @@
+# --- node / pnpm ---
+node_modules/
+dist/
+build/
+pnpm-lock.yaml
+npm-debug.log*
+
+# --- backend irrelevant files ---
+backend/node_modules/
+backend/*.log
+backend/.env
+
+# --- frontend caches ---
+.vite/
+.vscode/
+.idea/
+
+# --- system / OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- backups & scripts ---
+*.swp
+*.swo
+*~
+logs/
